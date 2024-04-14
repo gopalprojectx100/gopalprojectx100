@@ -1,6 +1,5 @@
-<div style="width:100%;height:20rem;" >
-    
-<img style="height:100%;width:100%; object-fit:cover"  src="https://res.cloudinary.com/dujoneujx/image/upload/v1709207142/docs/joje7jvk2e9ry3lbqha4.gif" />
+<div style="width:100%;height:20rem; display: flex; flex-direction: row;" >
+    <img style="height:100%;width:100%; object-fit:cover"  src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
 </div>
 
 <h1 align="center">Hi 👋, I'm GOPAL SASMAL</h1>
